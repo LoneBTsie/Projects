@@ -1,6 +1,8 @@
 # Projects
-Please find a list of projects that I have done over the years!
+Please find a list of my projects below:
 
-__Please note that thiis project page is under construction and will return on 16 March 2026.__
+
+
+#__Please note that this project page is under construction and will return on 16 March 2026.__
 
 Thank you for your patience!
